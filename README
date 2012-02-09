@@ -1,1 +1,65 @@
-C'est pr�t !
+C'est pr�t !
+
+1. Le XML
+- La naissance du langage XML
+
+XML a été mis au point par le XML Working Group sous l'égide du World Wide Web Consortium (W3C) dès 1996. Depuis le 10 février 1998, les spécifications XML 1.0 ont été reconnues comme recommandations par le W3C, ce qui en fait un langage reconnu. (Tous les documents liés à la norme XML sont consultables et téléchargeables sur le site web du W3C, http://www.w3.org/XML/)
+
+XML est un sous ensemble de SGML (Standard Generalized Markup Language), défini par le standard ISO8879 en 1986, utilisé dans le milieu de la Gestion Electronique Documentaire (GED). XML reprend la majeure partie des fonctionnalités de SGML, il s'agit donc d'une simplification de SGML afin de le rendre utilisable sur le web ! 
+
+        Avant XML
+        "Avant l'apparition de XML, existaient : 
+        - un langage de balisage normalisé, riche en sémantique mais relativement lourd à mettre en oeuvre et inadapté au Web : SGML (Standard Generalized Markup Language, ou langage normalisé de balisage généralisé - norme ISO 8879) 
+        - un langage parfaitement adapté au Web (puisque développé uniquement pour cette application) mais dont les applications sont limitées par une bibliothèque de balises figée et réduite : HTML (Hypertext Markup Language, ou langage de balisage hypertexte)."
+
+        XML francophone : FAQ
+        http://www.chez.com/xml/faq/index.htm
+
+        De HTML et SGML à XML
+        "Il convenait donc de définir un langage qui ait la facilité de mise en oeuvre de HTML tout en offrant la richesse sémantique de SGML. C'est la raison d'être de XML.
+        XML est un sous-ensemble au sens strict de SGML, dont il ne retient pas les aspects trop ciblés sur certains besoins. En cela il représente un profil d'application de la norme SGML."
+
+        XML francophone : FAQ
+        http://www.chez.com/xml/faq/index.htm
+
+        Différences entre SGML et XML
+        "XML est un langage de balisage structuré, basé sur le SGML, développé pour pallier les limites du HTML sans pour autant posséder les difficultés d'application du SGML."
+        Pour en savoir plus : lire la fiche - très claire -  sur les formats structurés SGML et XML :
+
+        BEAUDRY Guylaine, BOISMENU Gérard, "formats structurés SGML et XML". Expertise de ressources pour l'édition de revues numériques, février 2001
+        http://revues.enssib.fr/titre/6tecnic/3verselec/2forstruct.htm
+
+- XML : un langage séparant présentation et contenu
+
+XML est un langage qui sépare le contenu de la présentation
+
+L'exemple ci-dessus pourrait être présenté de la façon suivante :
+
+Bonjour,
+La référence du titre diffusé sur XMLfm est :
+The fool on the hill (John Lennon Paul McCartney) interprété par The Beatles.
+
+Cordialement,
+
+XMLfm
+Ou encore :
+
+Titre du morceau demandé : The fool on the hill
+Par : The Beatles
+Ainsi, une source de données unique permet une variété de présentations à partir d'un même contenu grâce à la technologie de transformation associée à des feuilles de style (XSLT pour eXtensible Stylesheet Language Transformation). À partir d'un document XML, il est possible de produire un autre document dans un langage utilisant des balises (XML, XHTML, HTML, WML) ou dans un format à vocation de publication (Word, PDF texte)
+
+En reprenant ces premiers éléments, nous constatons que XML est un langage qui permet de forger simplement des vocabulaires adaptés à la nature des données à structurer. Ces vocabulaires définissent des documents portables et indépendants des systèmes sur lesquels ils sont exploités. Ces documents peuvent être utilisés à des fins de traitement, de publication, d'archivage ou d'échange. Pour les échanges, qu'ils soient internes (entre applications du même système d'information) ou externes (avec des systèmes d'information de partenaires d'affaires), on mesure l'importance capitale de la correspondance des formats et de la définition de la sémantique des données échangées. Afin de permettre l'ajustement entre ce format d'échange et les formats internes propres aux systèmes d'information des partenaires, l'intérêt des technologies de transformation XSLT est évident. Enfin, pour la publication, l'apport de XSLT est double en permettant, d'une part, des mises en forme multiples adaptées au destinataire et, d'autre part, de diffuser la même source d'information selon des canaux différents (Web, PDF, WAP, e-mail, CD-ROM) sans duplication d'information. XML est donc bien un métalangage dont l'universalité en fait de facto un espéranto et a vocation d'être un format pivot tant dans les échanges que dans la publication multi-canal.
+
+http://xmlfr.org/documentations/articles/030220-0001
+
+- XML : un langage permettant la standardisation des données
+
+XML au carrefour de la publication, de l'intégration et des échanges
+
+XML s'est aujourd'hui imposé comme langage pivot de la publication, de l'intégration et des échanges. L'ensemble des acteurs s'est aujourd'hui rallié à ce standard et on notera que même les systèmes les plus fermés proposent désormais une ouverture fondée sur XML. Les récentes adoptions du format XML dans les logiciels bureautiques (OpenOffice, Microsoft Office 11) vont contribuer à accélérer le mouvement de fond de sa généralisation et de sa banalisation.
+
+XML rend l'information facilement réutilisable. Il simplifie la gestion documentaire et ouvre son potentiel de diffusion sur Internet. Il permet aux portails d'entreprise de fédérer une information dans un format flexible et adapté à la publication multi-canal sur Internet. Il facilite l'interopérabilité et les échanges entre des systèmes d'information hétérogènes. Enfin, contrairement à certaines idées reçues, XML n'a pas vocation à remplacer ni HTML ni l'EDI conventionnel mais il contribue à enrichir fortement leur potentiel. De la même façon, il y a peu de chances de voir XML devenir le format universel de représentation des données des applications de back office. En revanche, il contribuera fortement, comme support d'interopérabilité, à leur ouverture et à leur intégration avec les autres applications de l'entreprise et de ses partenaires.
+
+
+
+Je pense qu'on peut inclure cette partie aussi : http://fr.selfhtml.org/xml/intro.htm#liberte_donnees
