@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+
+<page idp="1" keywordsp="xml, langage, interaction, deust, groupe" descriptionp="Le sujet du groupe" titrep="Les perspectives d’évolution">
+
+	<paragraphe type="t">
+		La présence d’Internet se fait de plus en plus importante au coeur des vies humaines. Le monde de l’entreprise ne peut donc y échapper, et le système d’information de l’entreprise (SI) doit ainsi standardiser ses données en les banalisant pour échanger avec l’extérieur.
+	</paragraphe>
+	<paragraphe type="t">
+		Le XML s’avère donc être un langage parfait pour cette tâche : il devient le format standard pour le traitement et l’échange des données internes et externes avec sa diversité dans les données. C’est un format d’échanges universel lisible et semi-structuré qui est capable de respecter un modèle de données prédéfini.
+	</paragraphe>
+	<paragraphe type="t">
+		Le XML permettra d’aider l’entreprise dans de multiples domaines comme le partage des données en interne, avec le partage entre les applications, ou encore la communication avec les bases de données. Il pourra ainsi permettre d’exploiter plus facilement les services du web.
+	</paragraphe>
+	<paragraphe type="t">
+	
+	</paragraphe>
+	<paragraphe type="i">01.gif</paragraphe>
+	<paragraphe type="t">
+		L’occasion d’évoquer la stratégie de Microsoft avec .NET : son objectif est de profiter des problèmes de contenu (modèles, scénarios, profils, structure et vocabulaire des schémas XML) et de faire du e-business en utilisant quelques outils : UDDI (Universal Description, Discovery and Integration) qui sert de répertoire aux entreprises ou encore BizTalk (serveur de services).
+	</paragraphe>
+	<paragraphe type="t">
+		L’Echange de Données Informatisées (EDI) est une fonction qui définit l’échange d'informations automatiques entre deux entités à l'aide de messages standardisés, de machine à machine. Cet échange se réalise, dans l’entreprise, avec l’outil XML. Il intègre donc l’EDI dans le système d’information de l’entreprise et permet l’échange dans un langage commun.
+	</paragraphe>
+	<paragraphe type="t">
+	
+	</paragraphe>
+	<paragraphe type="t">
+	
+	</paragraphe>
+</page>
