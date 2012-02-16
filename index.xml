@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<!-- Essai de Yoann -->
+
+<page idp="1" keywordsp="xml, langage, interaction, deust, groupe" descriptionp="Le sujet du groupe" titrep="Index">
+
+	<paragraphe type="t">Le langage XML "Extensible Markup Language" a été mis au point en 1996 par le XML Working Group. On reconnaît ce langage à l’utilisation des balises, encadrées par les signes ouvrant/fermants. En réalité, il va permettre de structurer n’importe quel type de fichier, en séparant le contenu de sa présentation. XML va ainsi permettre de standardiser les formats d’échange et d’obtenir des présentations plus fluides et méthodiques.</paragraphe>
+	<paragraphe type="t">Par rapport à d’autres langages plus complexes, le XML a l’avantage d’être extensible. Il permet en effet de décrire n’importe quel domaine de données en définissant une structure et une organisation au sein des éléments contenus dans le fichier. Il s’agit en fait d’associer un contenu au rôle qu’il va jouer au sein du fichier XML.</paragraphe>
+	<paragraphe type="t">Finalement, cet outil mutualisé va permettre de favoriser et de simplifier les échanges et gagnera donc ainsi une place significative dans le monde de l’entreprise. Le XML donne la possibilité de se concentrer sur le métier en lui-même et non sur les formalités de format d’échange. L’information est ainsi facilement réutilisable et accessible à tous, notamment sur les portails d’entreprise.</paragraphe>
+	<paragraphe type="t">Nous allons dans un premier temps nous intéresser au langage XML en lui-même, pour ensuite voir quelle est son rôle au sein de l’entreprise. Nous finirons par nous interroger sur l’avenir réservé au XML.</paragraphe>
+	<paragraphe type="i">images/test.jpg</paragraphe>
+</page>
